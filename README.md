@@ -19,29 +19,35 @@ Note
 This project uses several external libraries. I do not claim any ownership of them. A lot of these are in the code, but aren't actually used yet (as of 4/8/2014). They include the following:
 
 google-gson
-~~~~~~~~~~~
+~~~
 gson-2.2.4.jar
+~~~
 
 JZoom
-~~~~~
+~~~
 jaad-0.8.4.jar
+~~~
 
 java-audio-player
-~~~~~~~~~~~~~~~~~
+~~~
 JavaMediaPlayer.jar
+~~~
 
 Java Music Player
-~~~~~~~~~~~~~~~~~
+~~~
 jl1.0.1.jar
+~~~
 
 Apache Log4j
-~~~~~~~~~~~~
+~~~
 log4j.jar
+~~~
 
 Sigar
-~~~~~
+~~~
 .sigar_shellrc
 sigar-amd64-winnt.dll
 sigar-x86-winnt.dll
 sigar-x86-winnt.lib
 sigar.jar
+~~~
