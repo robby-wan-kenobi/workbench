@@ -1,7 +1,7 @@
 workbench
 =========
 
-As a programmer, I wanted an application that would have all my utilities combined in one. This is still a work in progress, so it doesn't include everything that I want yet, but it's a start.
+As a programmer, I wanted an application that would have all my utilities combined in one. This is still a work in progress, so it doesn't include everything that I want yet and there are parts that need to be refactored, but it's a start.
 
 Running the code
 ================
